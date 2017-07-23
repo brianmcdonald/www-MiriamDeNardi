@@ -3,4 +3,4 @@ tags = []
 categories = []
 Title = "A sample update"
 +++
-Bla Bla Blagugo
+Bla Bla Blagugo in italian
