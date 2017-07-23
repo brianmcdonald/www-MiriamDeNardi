@@ -11,6 +11,24 @@
     
     
     <item>
+      <title>A smaple update</title>
+      <link>/post/some-update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/some-update/</guid>
+      <description>Bla Bla Bla</description>
+    </item>
+    
+    <item>
+      <title>About2</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is the about page</description>
+    </item>
+    
+    <item>
       <title>New Exhibition</title>
       <link>/post/new-exhibition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
