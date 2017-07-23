@@ -3,109 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/some-update/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/post/some-update/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/some-update/"
-                />
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
+                hreflang="et"
+                href="/et/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
                 href="/"
                 />
-  </url>
-  
-  <url>
-    <loc>/post/new-exhibition/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="/it/post/"
+                hreflang="et"
+                href="/et/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="/et/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
                 />
   </url>
   

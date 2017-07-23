@@ -12,15 +12,6 @@
     
     <item>
       <title>A sample update</title>
-      <link>/post/some-update.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/some-update.it/</guid>
-      <description>Bla Bla Blagugo in italian</description>
-    </item>
-    
-    <item>
-      <title>A sample update</title>
       <link>/post/some-update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -30,20 +21,12 @@
     
     <item>
       <title>About2</title>
-      <link>/about.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about.it/</guid>
-      <description>This is the about page</description>
-    </item>
-    
-    <item>
-      <title>About2</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This is the about page</description>
+      <description>Miriam De Nardi nasce a Vimercate in Brianza nel Novembre del 1958. E’ la più piccola di sei figli, ed è tramite il padre con il quale trascorreva ore a disegnare che scopre le opere dei grandi maestri dell’impressionismo che le saranno di ispirazione.
+A 15 anni incontra la tecnica ad olio e se ne innamora ed inizia a creare i primi lavori come autodidatta. Sono gli anni ’70 e l’influenza dei movimenti sociali e operai si fà sentire.</description>
     </item>
     
     <item>
