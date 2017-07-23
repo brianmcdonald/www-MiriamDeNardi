@@ -44,7 +44,7 @@ paginate = 10
 
 
 	[params.about]
-		hide  = false
+		hide  = true
 		title = "Latest update"
 		content = "The last update entry will appear here"
 
