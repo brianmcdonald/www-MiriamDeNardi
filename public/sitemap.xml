@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/work/sentiero-innevato/</loc>
+  </url>
+  
+  <url>
     <loc>/post/some-update/</loc>
   </url>
   
@@ -31,6 +35,11 @@
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
     <priority>0</priority>
   </url>
   
