@@ -5,7 +5,7 @@ Title = ""
 +++
 
 
-![2-Sentiero-innevato.JPG]({{site.baseurl}}/content/work/2-Sentiero-innevato.JPG)
+![2-Sentiero-innevato.JPG]({2-Sentiero-innevato.JPG)
 
 ## Sentiero innevato
 
