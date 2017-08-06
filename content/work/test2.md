@@ -1,5 +1,5 @@
 +++
-Painting = "/images/thumbs/01.jpg"
+painting = "/images/thumbs/01.jpg"
 date = "2017-08-06T12:15:11+00:00"
 sample_text = "testing2"
 title = "test2"

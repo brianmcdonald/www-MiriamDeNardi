@@ -3,13 +3,13 @@
 		<h1>{{ .Title }}</h1>
 
 		<!-- {{ partial "post-meta" . }} -->
+		<!-- {{ with .Params.picture }}<img src="{{ . }}">{{ end }} -->
 	</span>
-	<img{{ with .Params.Painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+
+	<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}"> 
 	<p>
-		
 	    {{ .Content }}
 	</p>
-	<p>This should be  {{ .Params.sample-text }}.</p>
 
 	{{ template "_internal/disqus.html" . }}
 {{ end }}
