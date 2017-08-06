@@ -1,6 +1,10 @@
 +++
-date = "2017-08-06T15:48:40+00:00"
+date = "2017-08-05T16:48:40+01:00"
 draft = true
 title = "third post"
 
 +++
+
+
+this is the third post
+
