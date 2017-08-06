@@ -4,9 +4,9 @@
 
 		<!-- {{ partial "post-meta" . }} -->
 	</span>
-
+	<img{{ with .Params.Painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
 	<p>
-		{{ .Painting }}
+		
 	    {{ .Content }}
 	</p>
 
