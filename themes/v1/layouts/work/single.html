@@ -9,6 +9,7 @@
 		
 	    {{ .Content }}
 	</p>
+	<p>This should be  {{ .Params.sample-text }}.</p>
 
 	{{ template "_internal/disqus.html" . }}
 {{ end }}
