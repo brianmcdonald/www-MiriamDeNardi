@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miriam De Nardi</title>
+    <link>/</link>
+    <description>Recent content on Miriam De Nardi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2017 09:32:21 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test work</title>
+      <link>/work/test-work/</link>
+      <pubDate>Sun, 06 Aug 2017 09:32:21 +0000</pubDate>
+      
+      <guid>/work/test-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A sample update</title>
+      <link>/post/some-update/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/some-update/</guid>
+      <description>Bla Bla Blagugo</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Miriam De Nardi nasce a Vimercate in Brianza nel Novembre del 1958. E’ la più piccola di sei figli, ed è tramite il padre con il quale trascorreva ore a disegnare che scopre le opere dei grandi maestri dell’impressionismo che le saranno di ispirazione.
+A 15 anni incontra la tecnica ad olio e se ne innamora ed inizia a creare i primi lavori come autodidatta. Sono gli anni ’70 e l’influenza dei movimenti sociali e operai si fà sentire.</description>
+    </item>
+    
+    <item>
+      <title>New Exhibition</title>
+      <link>/post/new-exhibition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-exhibition/</guid>
+      <description>This is just a test</description>
+    </item>
+    
+    <item>
+      <title>Number2</title>
+      <link>/work/number2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/number2/</guid>
+      <description>test2</description>
+    </item>
+    
+    <item>
+      <title>Sentiero innevato</title>
+      <link>/work/sentiero-innevato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/sentiero-innevato/</guid>
+      <description>Sentiero innevato Olio su Cartone telato CM 40x50
+Lasciarsi trasportare ad ascoltare il silenzio della neve, il lieve tonfo di caduta dai rami al suolo, il suo odore fresco e pulito, il freddo e caldo tra le mani e sul viso, lo scricchiolio dei passi sulla neve fresca . Percepire l’anima degli alberi ed il loro calore, catturare con lo sguardo la luce solare che filtra tra i rami&amp;hellip; e tutto intorno a te è vita è rumore è silenzio.</description>
+    </item>
+    
+  </channel>
+</rss>
