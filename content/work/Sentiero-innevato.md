@@ -1,11 +1,11 @@
 +++
 tags = []
 categories = []
-Title = ""
+Title = "Sentiero innevato"
+test = "vv"
 +++
 
-
-![2-Sentiero-innevato.JPG]({2-Sentiero-innevato.JPG)
+![Sentiero innevato](../2-Sentiero-innevato.JPG)
 
 ## Sentiero innevato
 
@@ -17,4 +17,3 @@ Percepire l’anima degli alberi ed il loro calore, catturare con lo sguardo la 
 Il “Sentiero nella neve” mi ha stimolato a trasmettere sensazioni dei sensi dalla tela all’osservatore, ho cercato di raccogliere emozioni vissute e riportate nel dipinto.
 
 _Periodo di esecuzione	1 Dicembre 2015 – 19 Gennaio 2016 (5 lezioni) *Questo quadro l’ho iniziato e terminato al corso in 5 lezioni._
-

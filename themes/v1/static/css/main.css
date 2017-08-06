@@ -2042,6 +2042,7 @@
 			}
 
 		.image img {
+			width: 100%;
 			border-radius: 0.35em;
 			display: block;
 		}
@@ -2883,6 +2884,13 @@
 				padding: 6em 3em 3em 3em;
 				width: calc(100% - 30%);
 			}
+			#main2 {
+			margin-left: 10%;
+			margin-right: 10%;
+			max-width: none;
+			padding: 6em 3em 3em 3em;
+			width: 100%;
+			}
 
 	}
 
@@ -3129,6 +3137,9 @@
 	.recent-post {
 		margin: .2em 0 .2em 0;
 	}
+	.recent-works {
+		margin: .2em 0 .2em 0;
+	}
 
 	#sidebar {
 		margin-top: 1.5em;
@@ -3152,6 +3163,10 @@
  */
 
  .recent-posts li {
+	 font-size: 20px;
+	 line-height: 36px;
+ }
+.recent-works li {
 	 font-size: 20px;
 	 line-height: 36px;
  }

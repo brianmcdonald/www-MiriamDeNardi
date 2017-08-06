@@ -1,0 +1,16 @@
+<section>
+    {{ with .Site.Params.recentworks.title }}
+        <h2>{{ . }}</h2>
+    {{ end }}
+
+	<div class="row">
+        <br>
+        <p>
+        <ul class="recent-works">
+        {{ range first 5 (where .Data.Pages "Section" "work") }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+        </p>
+	</div>
+</section>

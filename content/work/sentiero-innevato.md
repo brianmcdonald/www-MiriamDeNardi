@@ -1,10 +1,11 @@
 +++
 tags = []
 categories = []
-Title = ""
+Title = "Sentiero innevato"
+test = "vv"
 +++
 
-![Sentiero innevato]({{site.baseurl}}/content/work/2-Sentiero%20innevato%20-%20Olio%20su%20Tela%2040x50.JPG)
+![Sentiero innevato](../2-Sentiero-innevato.JPG)
 
 ## Sentiero innevato
 

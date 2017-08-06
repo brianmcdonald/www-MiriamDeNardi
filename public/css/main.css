@@ -3129,6 +3129,9 @@
 	.recent-post {
 		margin: .2em 0 .2em 0;
 	}
+	.recent-works {
+		margin: .2em 0 .2em 0;
+	}
 
 	#sidebar {
 		margin-top: 1.5em;
@@ -3152,6 +3155,10 @@
  */
 
  .recent-posts li {
+	 font-size: 20px;
+	 line-height: 36px;
+ }
+.recent-works li {
 	 font-size: 20px;
 	 line-height: 36px;
  }
