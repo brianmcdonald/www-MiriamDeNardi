@@ -15,7 +15,7 @@ paginate = 10
 	description = "Paintings by Miriam De Nardi, an artist living on Mont Conero, in the Marche region of Italy "
 
 	# Format dates with Go's time formatting
-	date_format = "2-Jan-2006"
+	date_format = "2006-2-4"
 
 
 	# Add custom assets with their paths relative to the static folder
