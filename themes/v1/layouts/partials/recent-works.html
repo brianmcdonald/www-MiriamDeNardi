@@ -23,9 +23,9 @@
 	<div class="row">
 		{{ range first 5 (where .Data.Pages "Section" "work") }}
 		<article class="6u 12u$(xsmall) work-item">
-            <h3>{{ .Title }}</h3>
             <a href="{{ .Permalink }}"> <img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" class="image fit thumb"></a>
-            <i>{{ .Type}}</i>
+            <h3>{{ .Title }}</h3>
+            <p>{{ .Type}}</p>
 		</article>
 		{{ end }}
 	</div>
