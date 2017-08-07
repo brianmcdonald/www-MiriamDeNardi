@@ -1,14 +1,14 @@
 {{ define "main" }}
 	<span>
 		<h1>{{ .Title }}</h1>
- 		<i>{{ Params.date }}</i>
+<!--  		<i>{{ Params.date }}</i>
 		<p>{{ Params.details}}</p>
-		<p>{{ .Params.description}}</p> 
+		<p>{{ .Params.description}}</p>  -->
 		<!-- {{ partial "post-meta" . }} -->
 		<!-- {{ with .Params.picture }}<img src="{{ . }}">{{ end }} -->
 	</span>
 
-	<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width:100%"> 
+	<!-- <img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width:100%">  -->
 	<p>
 	    {{ .Content }}
 	</p>
