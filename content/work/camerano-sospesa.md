@@ -1,6 +1,10 @@
 +++
+Painting = "/uploads/5-1.JPG"
 date = "2017-08-07T22:12:16+00:00"
+description = "La nebbia fascia Camerano con candore, come un lunghissimo velo di pizzo di sposa..."
+details = "Periodo di esecuzione 19 Aprile – 24 Maggio 2016 (10 giorni) *Questo quadro l’ho iniziato a casa (4 giorni) poi  terminato al corso in 6 lezioni."
 draft = true
 title = "Camerano sospesa"
+type = "Olio su tela\t\tCM 80x40"
 
 +++
