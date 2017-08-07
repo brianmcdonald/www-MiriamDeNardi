@@ -1,7 +1,9 @@
 {{ define "main" }}
 	<span>
 		<h1>{{ .Title }}</h1>
-		<p>{{ .Params.date }}</p>
+ 		<i>{{ Params.date }}</i>
+		<p>{{ Params.details}}</p>
+		<p>{{ .Params.description}}</p> 
 		<!-- {{ partial "post-meta" . }} -->
 		<!-- {{ with .Params.picture }}<img src="{{ . }}">{{ end }} -->
 	</span>
