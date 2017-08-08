@@ -1,10 +1,15 @@
 {{ define "main" }}
 	<span>
 		<h1>{{ .Title }}</h1>
-
+		<p>{{ .Params.date }}</p>
 		<!-- {{ partial "post-meta" . }} -->
 	</span>
-
+	<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width:100%"> 
+	<span>
+		<i>{{ .Params.type}}</i>
+		<p>{{ .Params.details}}</p>
+		<p>{{ .Params.description}}</p> 
+	</span>
 	<p>
 	    {{ .Content }}
 	</p>
