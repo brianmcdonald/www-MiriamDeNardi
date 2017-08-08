@@ -1,16 +1,16 @@
 {{ define "main" }}
-	<span>
-		<h1>{{ .Title }}</h1>
   		<p>{{ .Params.date }}</p>
 		<p>{{ .Params.details}}</p>
 		<p>{{ .Params.description}}</p>  
 		<!-- {{ partial "post-meta" . }} -->
 		<!-- {{ with .Params.picture }}<img src="{{ . }}">{{ end }} -->
+	<span>
+		<h1>{{ .Title }}</h1>
 	</span>
-
 	 <img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width:100%">  
 	<p>
-	    {{ .Content }}
+		{{ .Content }}
+		{{ .Params.date }}	
 	</p>
 
 	{{ template "_internal/disqus.html" . }}
