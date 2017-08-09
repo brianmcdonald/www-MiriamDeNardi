@@ -1,8 +1,12 @@
 baseurl = "/"
-googleAnalytics = ""
 languageCode = "en-us"
+title = "Miriam De Nardi"
+theme = "v1"
+# disqusShortname = "spf13"
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = ""
+# Define how many posts should appear on a site
 paginate = 10
-<<<<<<< HEAD
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
@@ -89,92 +93,18 @@ paginate = 10
 
 
 # Menu links that appear on the left sidebar
-=======
-theme = "v1"
-title = "Miriam De Nardi"
->>>>>>> 7ce36769f8ab46967db7b3fbb0362121562c0b4f
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 3
+	name = "Home"
+	url  = "/"
+	weight = 0
+
 [[menu.main]]
-name = "Updates"
-url = "post/"
-weight = 2
+	name = "Updates"
+	url  = "post/"
+	weight = 10
+
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-[params]
-custom_css = []
-custom_js = []
-date_format = "2006-01-02T00:00:00+00:00"
-description = "Paintings by Miriam De Nardi, an artist living on Mont Conero, in the Marche region of Italy "
-name = "Miriam De Nardi"
-[params.about]
-content = "The last update entry will appear here"
-hide = true
-title = "Latest update"
-[params.contact]
-address = ["Monte Conero", "Ancona", "Italy"]
-content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
-email = "brian.mcdonald01@gmail.com"
-hide = false
-phone = "000-000-0000"
-title = "Get In Touch"
-[params.contact.form]
-email = "Email"
-message = "Message"
-name = "Name"
-submit = "Send message"
-[params.portfolio]
-hide = false
-title = "Recent Work"
-[[params.portfolio.gallery]]
-description = "Lasciarsi trasportare ad ascoltare il silenzio della neve, il lieve tonfo di caduta dai rami al suolo, il suo odore fresco e pulito, il freddo e caldo tra le mani e sul viso, lo scricchiolio dei passi sulla neve fresca. Percepire l’anima degli alberi ed il loro calore, catturare con lo sguardo la luce solare che filtra tra i rami... e tutto intorno a te è vita è rumore è silenzio. Il “Sentiero nella neve” mi ha stimolato a trasmettere sensazioni dei sensi dalla tela all’osservatore, ho cercato di raccogliere emozioni vissute e riportate nel dipinto. Periodo di esecuzione 1 Dicembre 2015 – 19 Gennaio 2016 (5 lezioni) *Questo quadro l’ho iniziato e terminato al corso in 5 lezioni."
-image = "fulls/01.jpg"
-thumb = "thumbs/01.jpg"
-title = "Sentiero innevato - Olio su Tela"
-[[params.portfolio.gallery]]
-description = "La gazza aspetta il giorno e, il risveglio della natura., Aattende paziente e attenta... lì nel suo luogo sicuro, la pace è intorno a sè. Guarda la sua ombra e gioisce del lieve calore sulle piume.  ensa che oggi può volare, può guardare dall’alto il suo giardino per poi farvi ritorno e salutare la sera. “La gazza” amo questo dipinto per la sensazione di pace che trasmette, i colori caldi e luminosi. Anche in questo quadro ho voluto riportare sensazioni vissute. .... Il luogo sicuro. Periodo di esecuzione 26 Gennaio – 1 Marzo 2016 (6 lezioni) *Questo quadro l’ho iniziato e terminato al corso in 6 lezioni."
-image = "fulls/02.jpg"
-thumb = "thumbs/02.jpg"
-title = "La gazza di Monet -  - Olio su Tela"
-[[params.portfolio.gallery]]
-description = "Lorem ipsum dolor sit amet."
-image = "fulls/03.jpg"
-thumb = "thumbs/03.jpg"
-title = "Lorem ipsum dolor."
-[[params.portfolio.gallery]]
-description = "Lorem ipsum dolor sit amet."
-image = "fulls/04.jpg"
-thumb = "thumbs/04.jpg"
-title = "Lorem ipsum dolor."
-[[params.portfolio.gallery]]
-description = "Lorem ipsum dolor sit amet."
-image = "fulls/05.jpg"
-thumb = "thumbs/05.jpg"
-title = "Lorem ipsum dolor."
-[[params.portfolio.gallery]]
-description = "Lorem ipsum dolor sit amet."
-image = "fulls/06.jpg"
-thumb = "thumbs/06.jpg"
-title = "Lorem ipsum dolor."
-[params.recentposts]
-hide = false
-title = "Updates"
-[params.recentworks]
-hide = false
-title = "Works"
-[params.sidebar]
-avatar = "avatar.jpg"
-bio = "**I'm Miriam De Nardi**, an artist<br> living near Mont Conero<br> in Italy's Marche region."
-copyright = ["&copy; 2017 Miriam De Nardi", "Built by: [Brian Mc Donald](//brianmcdonald.me)"]
-dribbble = ""
-facebook = ""
-flickr = ""
-github = ""
-gitlab = ""
-googleplus = ""
-linkedin = ""
-twitter = ""
+        name = "About"
+        url  = "about"
+        weight = 11
+	
