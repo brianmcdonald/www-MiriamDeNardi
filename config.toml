@@ -50,47 +50,6 @@ paginate = 10
 		title = "Latest update"
 		content = "The last update entry will appear here"
 
-	[params.portfolio]
-		hide  = false
-		title = "Recent Work"
-
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Sentiero innevato - Olio su Tela"
-			description = "Lasciarsi trasportare ad ascoltare il silenzio della neve, il lieve tonfo di caduta dai rami al suolo, il suo odore fresco e pulito, il freddo e caldo tra le mani e sul viso, lo scricchiolio dei passi sulla neve fresca. Percepire l’anima degli alberi ed il loro calore, catturare con lo sguardo la luce solare che filtra tra i rami... e tutto intorno a te è vita è rumore è silenzio. Il “Sentiero nella neve” mi ha stimolato a trasmettere sensazioni dei sensi dalla tela all’osservatore, ho cercato di raccogliere emozioni vissute e riportate nel dipinto. Periodo di esecuzione 1 Dicembre 2015 – 19 Gennaio 2016 (5 lezioni) *Questo quadro l’ho iniziato e terminato al corso in 5 lezioni."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "La gazza di Monet -  - Olio su Tela"
-			description = "La gazza aspetta il giorno e, il risveglio della natura., Aattende paziente e attenta... lì nel suo luogo sicuro, la pace è intorno a sè. Guarda la sua ombra e gioisce del lieve calore sulle piume.  ensa che oggi può volare, può guardare dall’alto il suo giardino per poi farvi ritorno e salutare la sera. “La gazza” amo questo dipinto per la sensazione di pace che trasmette, i colori caldi e luminosi. Anche in questo quadro ho voluto riportare sensazioni vissute. .... Il luogo sicuro. Periodo di esecuzione 26 Gennaio – 1 Marzo 2016 (6 lezioni) *Questo quadro l’ho iniziato e terminato al corso in 6 lezioni."
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
 	[params.recentworks]
 		hide  = false
 		title = "Works"
