@@ -5,8 +5,6 @@ tags = []
 title = "New Exhibition"
 
 +++
-
-
 This is just a test
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/GziH8s7ksMo" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
