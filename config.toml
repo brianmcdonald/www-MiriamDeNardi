@@ -70,7 +70,7 @@ MetaDataFormat = "yaml"
 			"Ancona",
 			"Italy"
 		]
-		phone = "000-000-0000"
+		#phone = "000-000-0000"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -83,7 +83,7 @@ MetaDataFormat = "yaml"
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "brian.mcdonald01@gmail.com"
+		email = "info@miriamdenardi.it"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
