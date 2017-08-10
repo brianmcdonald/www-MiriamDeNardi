@@ -19,4 +19,4 @@ collections:
       - {label: "Painting", name: "Painting", widget: "image"}
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Details", name: "details", widget: "string"}
-      - {label: "Description", name: "description", widget: "strimarkstringdownng"}
+      - {label: "Description", name: "description", widget: "markdown"}
