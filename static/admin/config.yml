@@ -19,13 +19,22 @@ collections:
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Details", name: "details", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
-  - name: "post" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
-    folder: "content/post" # The path to the folder where the documents are stored
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "Image", widget: "image"}
-      - {label: "Content", name: "description", widget: "markdown"}
+      - {label: "Image", name: "Image", widget: "image", required: false}
+      - {label: "Introductory text", name: "intro", widget: "markdown"}
+      - {label: "Content", name: "body", widget: "markdown"}
+  - name: "page" # Used in routes, e.g., /admin/collections/blog
+    label: "Page" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
