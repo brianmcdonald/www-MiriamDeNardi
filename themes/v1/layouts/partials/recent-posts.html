@@ -8,7 +8,7 @@
         <ol class="recent-posts">
         {{ range first 5 (where .Data.Pages "Section" "news") }}
             <ul><i class="fa fa-calendar"></i>&nbsp;&nbsp;
-<time datetime="{{ .Date }}">{{ .Date.Format .Site.Params.date_format }}</time>&nbsp;&nbsp; <a href="{{ .Permalink }}">{{ .Title }}</a></br>{{ .Summary }}</ul>
+<time datetime="{{ .Date }}">{{ .Date.Format .Site.Params.date_format }}</time>&nbsp;&nbsp; <a href="{{ .Permalink }}">{{ .Title }}</a></br>{{ .Begin }}</ul>
         {{ end }}
         </ol>
         </p>
