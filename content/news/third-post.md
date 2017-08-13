@@ -1,10 +1,12 @@
 ---
-title: third post
+title: Some interesting news to share
 date: '2017-08-05T16:48:40+01:00'
 ---
 Qui aut temporibus praesentium sit. Et qui et necessitatibus nostrum odio corrupti rem dolorem. Voluptate omnis et quae sunt est non ad aliquid. Aliquam commodi consequatur quia et odio.
 
-## Qui veniam 
+<!--more-->
+
+## Qui veniam
 
 esse earum. Harum suscipit tempore omnis omnis. Laudantium sed et reprehenderit amet qui. Excepturi sit harum vel dolor consectetur pariatur. Ut qui sunt libero. Necessitatibus est optio est perferendis natus.
 
