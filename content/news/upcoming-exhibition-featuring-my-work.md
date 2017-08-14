@@ -3,7 +3,7 @@ title: Upcoming exhibition featuring my work
 date: 2017-08-13T09:33:36.606Z
 file: /uploads/2014 OSOCC Guidelines_FINAL.pdf
 ---
-There is an **exhibition** in a place *next mont*h...  
+There is an **exhibition** in a place *next month* ...  
 
 <!--more--> 
 
