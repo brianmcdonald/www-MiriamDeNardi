@@ -6,6 +6,7 @@
 	<p>
 	    {{ .Content }}
 	</p>
-
+	{{if .PrevInSection}}<a href="{{.PrevInSection.Permalink}}">Previous{{end}}
+	{{if .NextInSection}}<a href="{{.NextInSection.Permalink}}" style="float:right">Next{{end}}
 	{{ template "_internal/disqus.html" . }}
 {{ end }}

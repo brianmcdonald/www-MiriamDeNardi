@@ -1,18 +1,31 @@
 {{ define "main" }}
-  		<p>{{ .Params.date }}</p>
-		<p>{{ .Params.details}}</p>
-		<p>{{ .Params.description}}</p>  
-		<p>test</p>
-		<!-- {{ partial "post-meta" . }} -->
-		<!-- {{ with .Params.picture }}<img src="{{ . }}">{{ end }} -->
+	<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="max-width:100%; max-height:95vh"> 
 	<span>
 		<h1>{{ .Title }}</h1>
+		<p>{{.Date.Format "2 Jan 2006"}}</p>
+		<!-- {{ partial "post-meta" . }} -->
 	</span>
-	 <img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width:100%">  
+	<span>
+		<p>{{ .Params.type}}</p>
+		<p>{{ .Params.details}}</p>
+		<p>{{ .Params.description}}</p> 
+		<p>{{ .Params.file}}</p> 
+	</span>
+	{{ if eq .Params.buy true }}
+	Price: €{{ .Params.price }}	&nbsp 
+	<button
+		class="snipcart-add-item"
+		data-item-id={{ .UniqueID }}
+		data-item-name={{ .Title }}
+		data-item-price={{ .Params.price }}
+		data-item-url=https://www.miriamdenardi.it{{ .URL }}
+		data-item-description={{ .Params.description }}>
+		Buy
+	</button>
+	{{ end }}
 	<p>
-		{{ .Content }}
-		{{ .Params.date }}	
+	    {{ .Content }}
 	</p>
-
+	
 	{{ template "_internal/disqus.html" . }}
 {{ end }}

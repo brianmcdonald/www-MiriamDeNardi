@@ -5,6 +5,7 @@
 
     {{ partial "post-meta" . }}
 </span>
+<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="max-width:100%; max-height:95vh">
 
 <p>{{ .Summary }}</p>
 <hr>
