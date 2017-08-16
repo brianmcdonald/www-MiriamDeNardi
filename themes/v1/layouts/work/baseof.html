@@ -1,12 +1,12 @@
 {{ partial "head" . }}
 	<body id="top">
-		<!-- {{ partial "header" . }} -->
+		{{ partial "header" . }}
 
 		{{ "<!-- Main -->" | safeHTML }}
-		<div id="main2">
+		<div id="main">
 			{{ block "main" . }}{{ end }}
 		</div>
 
-		<!-- {{ partial "footer" . }} -->
+		{{ partial "footer" . }}
 	</body>
 </html>

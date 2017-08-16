@@ -12,7 +12,7 @@
 		<p>{{ .Params.file}}</p> 
 	</span>
 	{{ if eq .Params.buy true }}
-	Price: €{{ .Params.price }}	&nbsp 
+	Print price: €{{ .Params.price }}	&nbsp 
 	<button
 		class="snipcart-add-item"
 		data-item-id={{ .UniqueID }}
@@ -26,6 +26,7 @@
 	<p>
 	    {{ .Content }}
 	</p>
-	
+	{{if .PrevInSection}}<a href="{{.PrevInSection.Permalink}}">Previous{{end}}
+	{{if .NextInSection}}<a href="{{.NextInSection.Permalink}}" style="float:right">Next{{end}}
 	{{ template "_internal/disqus.html" . }}
 {{ end }}
