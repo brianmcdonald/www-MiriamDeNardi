@@ -11,6 +11,7 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	</span>
+	{{ if eq .Data "true" }}{{ end }}
 	<button
 		class="snipcart-add-item"
 		data-item-id="3"
@@ -20,7 +21,8 @@
 		data-item-url= {{ .Permalink}}
 		data-item-description="Some fresh chocolate">
         Test buy
-		</button>
+	</button>
+	{{ end }}
 	<p>
 	    {{ .Content }}
 	</p>
