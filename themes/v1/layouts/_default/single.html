@@ -11,17 +11,17 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	</span>
-	{{ if eq .Data true }}
-	<button
-		class="snipcart-add-item"
-		data-item-id="3"
-		data-item-name="Chocolate"
-		data-item-price="5.00"
-		data-item-weight="10"
-		data-item-url= {{ .Permalink}}
-		data-item-description="Some fresh chocolate">
-        Test buy
-	</button>
+	{{ if eq .Params.buy true }}
+		<button
+			class="snipcart-add-item"
+			data-item-id="3"
+			data-item-name="Chocolate"
+			data-item-price="5.00"
+			data-item-weight="10"
+			data-item-url= {{ .Permalink}}
+			data-item-description="Some fresh chocolate">
+			Test buy
+		</button>
 	{{ end }}
 	<p>
 	    {{ .Content }}
