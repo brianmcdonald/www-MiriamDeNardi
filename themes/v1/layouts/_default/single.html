@@ -12,14 +12,14 @@
 		<p>{{ .Params.file}}</p> 
 	</span>
 	{{ if eq .Params.buy true }}
-		Price: {{ .Params.price}}
+		Price: {{ .Params.price }}
 		<button
 			class="snipcart-add-item"
 			data-item-id="3"
 			data-item-name={{ .Title }}
-			data-item-price={{ Params.price}}
+			data-item-price={{ Params.price }}
 			data-item-weight="10"
-			data-item-url= {{ .Permalink}}
+			data-item-url= {{ .Permalink }}
 			data-item-description={{ .Params.description }}
 			Buy
 		</button>
