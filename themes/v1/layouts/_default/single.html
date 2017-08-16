@@ -12,17 +12,16 @@
 		<p>{{ .Params.file}}</p> 
 	</span>
 	{{ if eq .Params.buy true }}
-		<!-- Price: {{ .Params.price }} -->
-		<button
-			class="snipcart-add-item"
-			data-item-id="3"
-			data-item-name={{ .Title }}
-			data-item-price="5"
-			data-item-weight="10"
-			data-item-url= {{ .Permalink }}
-			data-item-description={{ .Params.description }}
-			Buy
-		</button>
+	Price: {{ .Params.price }}	
+	<button
+		class="snipcart-add-item"
+		data-item-id={{ .Title }}
+		data-item-name={{ .Title }}
+		data-item-price={{ .Params.price }}
+		data-item-url= {{ .Permalink}}
+		data-item-description={{ .Params.description }}>
+		Test buy
+	</button>
 	{{ end }}
 	<p>
 	    {{ .Content }}
