@@ -12,7 +12,7 @@
 		<p>{{ .Params.file}}</p> 
 	</span>
 	{{ if eq .Params.buy true }}
-	Price: &euro &nbsp {{ .Params.price }}	
+	Price: €{{ .Params.price }}	&nbsp 
 	<button
 		class="snipcart-add-item"
 		data-item-id={{ .Title }}
