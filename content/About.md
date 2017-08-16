@@ -1,5 +1,4 @@
 +++
-Title = "About"
 categories = []
 tags = []
 title = "About"
