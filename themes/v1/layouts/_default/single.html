@@ -1,5 +1,5 @@
 {{ define "main" }}
-	<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width:100%"> 
+	<img{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="max-width:100%; max-height:90vh"> 
 	<span>
 		<h1>{{ .Title }}</h1>
 		<p>{{.Date.Format "2 Jan 2006"}}</p>
