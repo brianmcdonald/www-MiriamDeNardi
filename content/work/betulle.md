@@ -5,5 +5,5 @@ description = "Questo quadro è uno spaccato di un bosco di betulle, dove il pro
 details = "Periodo di esecuzione\t12 Dicembre 2016 (1 giorno)*Questo quadro l’ho iniziato e terminato da sola."
 title = "Betulle"
 type = "Olio su Cartone telato"
-
+buy=false
 +++
