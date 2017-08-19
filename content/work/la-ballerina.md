@@ -13,7 +13,8 @@ description: >-
 
   In questo Nella semplicita’ di questo gesto, delicatezza’(?) e armonia
   diventano soggetto del quadro. 
-buy: true
+buy: false
 price: '120'
 ---
 body
+
