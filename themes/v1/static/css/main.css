@@ -2466,6 +2466,7 @@
 			margin: 0 0 1.5em 0;
 			height: 250px;
 			width: auto;
+			max-width: 400px;
 		}
 
 		.work-item h3 {
