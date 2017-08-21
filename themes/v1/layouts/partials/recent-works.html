@@ -23,7 +23,7 @@
 	<div class="row">
 		{{ range first 15 (where .Data.Pages "Section" "work") }}
 		<article class="6u 12u$(xsmall) work-item">
-            <a href="{{ .Permalink }}"> <img style="max-height:250px;"{{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" class="image fit thumb"></a>
+            <a href="{{ .Permalink }}"> <img {{ with .Params.painting }} src="{{ . }}"{{ end }} alt="{{ .Title }}" class="image fit thumb"></a>
             <h3>{{ .Title }}</h3>
             <p>{{ .Type}}</p>
 		</article>
