@@ -1,5 +1,5 @@
 {{ define "main" }}
-<a {{ with .Params.painting }} href="{{ . }}" data-lightbox="image-1" data-title="My caption"><img src="{{ . }}"{{ end }} alt="{{ .Title }}" style="max-width:100%; max-height:95vh"> </a>
+<a {{ with .Params.painting }} href="{{ . }}" data-lightbox="image-1" data-title="{{ .Title }}"><img src="{{ . }}"{{ end }} alt="{{ .Title }}" style="max-width:100%; max-height:95vh; border-bottom:none"> </a>
 <span>
 		<h1>{{ .Title }}</h1>
 		<p>{{.Date.Format "2 Jan 2006"}}</p>
