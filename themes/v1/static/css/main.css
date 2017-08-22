@@ -2469,7 +2469,10 @@
 			max-width: 350px;
 		}
 		.work-item .image:hover {
-			opacity: 0.5;
+
+			-moz-box-shadow: 0 0 10px #555;
+			-webkit-box-shadow: 0 0 10px #555;
+			box-shadow: 0 0 10px #555;
 		}
 
 		
