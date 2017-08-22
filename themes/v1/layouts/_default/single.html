@@ -1,6 +1,6 @@
 {{ define "main" }}
-	<a {{ with .Params.painting }} href="{{ . }}" data-lightbox="t1"data-title="t"><img {{ end }} src="{{ . }}" alt="{{ .Title }}" style="border-bottom: none; max-width:100%; max-height:95vh"> </a>
-	<span>
+<a {{ with .Params.painting }} href="{{ . }}" data-lightbox="image-1" data-title="My caption"><img src="{{ . }}"{{ end }} alt="{{ .Title }}" style="max-width:100%; max-height:95vh"> </a>
+<span>
 		<h1>{{ .Title }}</h1>
 		<p>{{.Date.Format "2 Jan 2006"}}</p>
 		<!-- {{ partial "post-meta" . }} -->
