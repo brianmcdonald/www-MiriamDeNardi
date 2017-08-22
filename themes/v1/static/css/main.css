@@ -1601,7 +1601,7 @@
 		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
-			border-bottom: dotted 1px;
+			/* border-bottom: dotted 1px; */
 			text-decoration: none;
 		}
 
@@ -2468,6 +2468,11 @@
 			width: auto;
 			max-width: 350px;
 		}
+		.work-item .image:hover {
+			opacity: 0.5;
+		}
+
+		
 
 		.work-item h3 {
 			font-size: 1em;
