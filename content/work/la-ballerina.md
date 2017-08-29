@@ -16,5 +16,3 @@ description: >-
 buy: false
 price: '120'
 ---
-body
-
