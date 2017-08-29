@@ -34,7 +34,7 @@ MetaDataFormat = "yaml"
 
 		copyright = [
 			"&copy; 2017 Miriam De Nardi",
-			"Built by: [Brian Mc Donald](//brianmcdonald.me)",
+			"Built by: [Brian Mc Donald](http://brianmcdonald.me)",
 		]
 		
 	[params.about]
