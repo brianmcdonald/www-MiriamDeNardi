@@ -7,9 +7,10 @@ details: "Periodo di esecuzione\t9-19 Gennaio 2017 (20 giorni) *Questo quadro lâ
 description: >-
   Espressione di un approdo sicuro che racchiude calore anche se talvolta
   funestato da qualche vicenda dolorosa.
-buy: false
+buy: true
 price: '85'
 ---
+
 
 
 
