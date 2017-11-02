@@ -7,3 +7,4 @@ details: "Periodo di esecuzione\t26 Gennaio – 1 Marzo 2016 (6 lezioni) *Questo
 description: "\_*La gazza aspetta il giorno, il risveglio della natura, attende...\nlì nel suo luogo sicuro, *\n\n*la pace è intorno a sè, guarda la sua ombra e gioisce del\nlieve calore sulle piume.*\n\n*Pensa che oggi può volare, osserva da lassù il suo giardino\nper poi farvi ritorno la sera.*\n\n*\_“La gazza” amo\nquesto dipinto per la sensazione di pace che mi trasmette, i colori caldi e\nluminosi.*"
 ---
 
+
