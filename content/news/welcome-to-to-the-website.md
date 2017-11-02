@@ -3,6 +3,7 @@ title: ARTE E ARTISTI CONTEMPORANEI - Premio Paul Gauguen - Marzo 2017
 date: 2017-07-31T20:38:16.000Z
 file: null
 ---
+Presso il Palazzo Ferraioli in Roma riceve il riconoscimento tra i 50 finalisti.
 
 <!--more-->
 
