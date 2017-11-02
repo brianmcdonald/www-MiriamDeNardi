@@ -1,9 +1,8 @@
 ---
-title: Welcome to to the website
+title: ARTE E ARTISTI CONTEMPORANEI - Premio Paul Gauguen - Marzo 2017
 date: 2017-07-31T20:38:16.000Z
 file: null
 ---
-*Welcome* to the new **website.** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 <!--more-->
 
