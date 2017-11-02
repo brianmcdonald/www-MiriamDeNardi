@@ -1,7 +1,7 @@
 ---
 categories: []
 tags: []
-title: About
+title: Biografia
 type: page
 ---
 Miriam De Nardi nasce a Vimercate in Brianza nel Novembre del 1958. 
@@ -30,3 +30,4 @@ Nei
  suoi quadri ritroviamo il calore ed il movimento dei suoi soggetti ma 
 anche lo spirito della bambina che non abbandonò mai l'amore e la 
 passione per l'arte.
+
