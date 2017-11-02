@@ -9,6 +9,9 @@ Ho ricevuto il riconoscimento di essere tra i 50 finalisti del concorso, il prem
 
 ![null](/uploads/IMG-9581.JPG)
 
-*“l’arte
-è un’astrazione: spremetela dalla natura sognando di fronte ad essa e
-preoccupatevi più della creazione che del risultato” (Paul Gauguin)*
+Appunti critici di **Plinio Perilli** ...*Bello
+l'olio su tela "Camerano sospesa", con la nebbia che la fascia
+candida come lunghissimo velo o pizzo di sposa... Poi alcuni fari struggenti:
+quello di "Muxia", l'altro di "Schleswigh Holstein".
+Splendido "L'Oceano abbraccia aa Jument", vigoroso in tempesta: olio
+e polvere di marmo bianco su tela.*
