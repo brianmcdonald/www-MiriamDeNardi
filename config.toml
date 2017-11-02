@@ -87,7 +87,7 @@ MetaDataFormat = "yaml"
 
 # Menu links that appear on the left sidebar
 [[menu.main]]
-	name = "Home"
+	name = "Homepage"
 	url  = "/"
 	weight = 1
 [[menu.main]]
