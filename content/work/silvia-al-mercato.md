@@ -2,7 +2,7 @@
 title: Silvia al mercato
 date: '2017-08-09T22:28:58Z'
 Painting: /uploads/10.JPG
-type: Olio su cartone telato
+type: Olio su cartone telato    40X50
 details: "Periodo di esecuzione\t1 Dicembre 2016 – 6 Aprile 2017 (4 mesi) *Questo quadro l’ho iniziato da sola e continuato al corso\t"
 description: >-
   Una passeggiata al mercato di Bali, con i colori che circondano mia figlia
@@ -13,5 +13,6 @@ description: >-
 buy: false
 price: '200'
 ---
+
 
 
