@@ -7,9 +7,9 @@ media_folder: "static/uploads" # Media files will be stored in the repo under st
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "work" # Used in routes, e.g., /admin/collections/blog
-    label: "Work" # Used in the UI
-    folder: "content/work" # The path to the folder where the documents are stored
+  - name: "opere" # Used in routes, e.g., /admin/collections/blog
+    label: "Opere" # Used in the UI
+    folder: "content/opere" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -21,7 +21,7 @@ collections:
       - {label: "Add buy button", name: "buy", widget: "boolean", required: false}
       - {label: "Price", name: "price", widget: "number", required: false}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
-    label: "News" # Used in the UI
+    label: "News & Eventi" # Used in the UI
     folder: "content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
