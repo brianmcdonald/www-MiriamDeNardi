@@ -1,5 +1,5 @@
 ---
-title: ARTE E ARTISTI CONTEMPORANEI - Premio Paul Gauguin - Marzo 2017
+title: ARTE E ARTISTI CONTEMPORANEI - Premio Paul Gauguin
 date: 2017-03-31T20:38:16.000Z
 file: null
 ---
@@ -15,4 +15,5 @@ candida come lunghissimo velo o pizzo di sposa... Poi alcuni fari struggenti:
 quello di "Muxia", l'altro di "Schleswigh Holstein".
 Splendido "L'Oceano abbraccia aa Jument", vigoroso in tempesta: olio
 e polvere di marmo bianco su tela.*
+
 

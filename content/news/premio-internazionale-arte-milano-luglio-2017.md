@@ -1,6 +1,6 @@
 ---
-title: '"PREMIO INTERNAZIONALE ARTE MILANO" Luglio 2017'
-date: 2017-11-02T16:11:42.536Z
+title: PREMIO INTERNAZIONALE ARTE MILANO
+date: 2017-07-31T16:11:42.000Z
 file: null
 ---
 Nel 2017 partecipa al "**PREMIO
@@ -8,9 +8,9 @@ INTERNAZIONALE ARTE MILANO**"
 
 <!--more-->
 
-***Vittorio Sgarbi**... La selezione del suo operato in occasione di
+**Vittorio Sgarbi**... La selezione del suo operato in occasione di
 questo prestigioso progetto attesta il valore della sua ricerca stilistica nel
-panorama artistico contemporaneo. *
+panorama artistico contemporaneo. 
 
 *La sua presenza è conferma che la
 creatività è una delle più importanti forme di trasmissione del sapere.*
