@@ -3,6 +3,7 @@ categories: []
 tags: []
 title: Biografia
 type: page
+date: '2017-11-06T22:40:03Z'
 ---
 Miriam De Nardi nasce a Vimercate in Brianza nel Novembre del 1958. 
 
