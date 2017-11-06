@@ -1,6 +1,6 @@
 ---
-title: '"PREMIO INTERNAZIONALE ARTE MILANO" Luglio 2017'
-date: 2017-11-02T16:11:42.536Z
+title: PREMIO INTERNAZIONALE ARTE MILANO
+date: 2017-07-31T19:11:42+03:00
 file: null
 ---
 Nel 2017 partecipa al "**PREMIO
@@ -37,5 +37,6 @@ emergere dai suoi lavori un bisogno impellente di comunicatività, rinunciando a
 tale scopo al rigido accademismo.*
 
 ![null](/uploads/Teatro del Verme-Arte Milano.jpg)
+
 
 
