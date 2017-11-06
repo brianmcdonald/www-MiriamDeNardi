@@ -13,7 +13,7 @@ MetaDataFormat = "yaml"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Miriam De Nardi - pittore artista contemperoraneo"
-	description = "Paintings by Miriam De Nardi, an artist living on Mont Conero, in the Marche region of Italy "
+	description = "Sono Miriam De Nardi, un'artista contemperoraneo che vive sul Monte Conero nelle Marche"
 
 	# Format dates with Go's time formatting
 	date_format = "02 Jan 2006"
