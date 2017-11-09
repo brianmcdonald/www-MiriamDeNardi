@@ -11,8 +11,20 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	</span>
-	{{ if eq .Params.buy true }}
-	Print price: €{{ .Params.price }}	&nbsp 
+	{{ if eq .Params.print-buy true }}
+	Print price: €{{ .Params.print-price }}	&nbsp 
+	<button
+		class="snipcart-add-item"
+		data-item-id={{ .UniqueID }}
+		data-item-name={{ .Title }}
+		data-item-price={{ .Params.price }}
+		data-item-url=https://www.miriamdenardi.it{{ .URL }}
+		data-item-description={{ .Params.description }}>
+		Buy
+	</button>
+	{{ end }}
+	{{ if eq .Params.original-buy true }}
+	Print price: €{{ .Params.original-price }}	&nbsp 
 	<button
 		class="snipcart-add-item"
 		data-item-id={{ .UniqueID }}

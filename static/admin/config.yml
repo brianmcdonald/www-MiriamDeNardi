@@ -18,8 +18,10 @@ collections:
       - {label: "Painting", name: "Painting", widget: "image"}
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Add buy button", name: "buy", widget: "boolean", required: false}
-      - {label: "Price", name: "price", widget: "number", required: false}
+      - {label: "Add print price", name: "print-buy", widget: "boolean", required: false}
+      - {label: "Add original price", name: "original-buy", widget: "boolean", required: false}
+      - {label: "Print price", name: "print-price", widget: "number", required: false}
+      - {label: "Original price", name: "original-price", widget: "number", required: false}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News & Eventi" # Used in the UI
     folder: "content/news" # The path to the folder where the documents are stored
