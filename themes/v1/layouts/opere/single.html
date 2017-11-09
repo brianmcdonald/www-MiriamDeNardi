@@ -38,7 +38,7 @@
 	<p>
 	    {{ .Content }}
 	</p>
-	{{if .PrevInSection}}<a href="{{ .Site.BaseURL }}{{.PrevInSection.Permalink}}">Previous{{end}}
-	{{if .NextInSection}}<a href="{{ .Site.BaseURL }}{{.NextInSection.Permalink}}" style="float:right">Next{{end}}
+	{{if .PrevInSection}}<a href="{{.Site.BaseURL}}{{.PrevInSection.Permalink}}">Previous{{end}}
+	{{if .NextInSection}}<a href="{{.Site.BaseURL}}{{.NextInSection.Permalink}}" style="float:right">Next{{end}}
 	{{ template "_internal/disqus.html" . }}
 {{ end }}
