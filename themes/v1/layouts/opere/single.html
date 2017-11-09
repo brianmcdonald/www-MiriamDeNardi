@@ -11,8 +11,8 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	</span>
-	{{ if eq .Params.print-buy true }}
-	Print price: €{{ .Params.print-price }}	&nbsp 
+	{{ if eq .Params.printBuy true }}
+	Print price: €{{ .Params.printPrice }}	&nbsp 
 	<button
 		class="snipcart-add-item"
 		data-item-id={{ .UniqueID }}
@@ -23,8 +23,8 @@
 		Buy
 	</button>
 	{{ end }}
-	{{ if eq .Params.original-buy true }}
-	Print price: €{{ .Params.original-price }}	&nbsp 
+	{{ if eq .Params.originalBuy true }}
+	Print price: €{{ .Params.originalPrice }}	&nbsp 
 	<button
 		class="snipcart-add-item"
 		data-item-id={{ .UniqueID }}
