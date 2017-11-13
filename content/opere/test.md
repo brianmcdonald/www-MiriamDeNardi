@@ -5,7 +5,7 @@ Painting: /uploads/il campo di papaveri web.jpg
 type: test
 description: test
 printBuy: true
-originalBuy: true
+originalBuy: false
 printPrice: '90'
 originalPrice: '999'
 ---
