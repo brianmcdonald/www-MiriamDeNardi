@@ -1,7 +1,5 @@
 ---
-title: >-
-  PREMIO INTERNAZIONALE BRUNELLESCHI FIRENZE - PALAZZO XIMENESdal 19 al 21
-  Gennaio 2018
+title: PREMIO INTERNAZIONALE BRUNELLESCHI FIRENZE
 date: 2017-11-13T15:02:09.761Z
 file: /uploads/brochure premio brunelleschi.pdf
 ---
