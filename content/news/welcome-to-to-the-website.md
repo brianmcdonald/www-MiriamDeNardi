@@ -1,9 +1,9 @@
 ---
 title: ARTE E ARTISTI CONTEMPORANEI - Premio Paul Gauguin
 date: 2017-03-31T20:38:16.000Z
-file: null
 ---
-Ho ricevuto il riconoscimento di essere tra i 50 finalisti del concorso, il premio è stato consegnato presso il Palazzo Ferraioli in Roma.
+Ho ricevuto il riconoscimento di essere tra i 50 finalisti su 3000 partecipanti al concorso.
+Il premio è stato consegnato presso il Palazzo Ferraioli in Roma.
 
 <!--more-->
 
