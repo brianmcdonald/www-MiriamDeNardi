@@ -38,7 +38,7 @@
 	<p>
 	    {{ .Content }}
 	</p>
-	{{if .PrevInSection}}<a href="{{.PrevInSection.Permalink}}">Previous{{end}}
-	{{if .NextInSection}}<a href="{{.NextInSection.Permalink}}" style="float:right">Next{{end}}
+	{{if .PrevInSection}}<a href="https://www.miriamdenardi.it{{.PrevInSection.Permalink}}">Previous{{end}}
+	{{if .NextInSection}}<a href="https://www.miriamdenardi.it{{.NextInSection.Permalink}}" style="float:right">Next{{end}}
 	{{ template "_internal/disqus.html" . }}
 {{ end }}
