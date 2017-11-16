@@ -4,8 +4,9 @@ date: 2017-11-16T20:07:33.273Z
 Painting: /uploads/10.JPG
 type: test
 description: testing
-print: true
-price: '99'
-originalPrice: ''
+addPrint: true
+printPrice: '100'
+addOrigiinal: true
+originalPrice: '999'
 ---
 
