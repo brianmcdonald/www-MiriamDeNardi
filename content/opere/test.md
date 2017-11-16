@@ -7,6 +7,6 @@ description: testing
 addPrint: true
 printPrice: '100'
 addOrigiinal: true
-originalPrice: '999'
+originalPrice: '9999'
 ---
 
