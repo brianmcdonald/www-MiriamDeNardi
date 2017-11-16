@@ -11,8 +11,8 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	</span>
-	{{ if eq .Params.printBuy true }}
-	Print price: €{{ .Params.printPrice }}	&nbsp 
+	{{ if eq .Params.print true }}
+	Print price: €{{ .Params.price }}	&nbsp 
 	{{ end }}
 	<p>
 	    {{ .Content }}

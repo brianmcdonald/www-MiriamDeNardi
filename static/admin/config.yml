@@ -18,9 +18,8 @@ collections:
       - {label: "Painting", name: "Painting", widget: "image"}
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Add print price", name: "printBuy", widget: "boolean", required: false}
-      - {label: "Add original price", name: "originalBuy", widget: "boolean", required: false}
-      - {label: "Print price", name: "printPrice", widget: "number", required: false}
+      - {label: "Add print price", name: "print", widget: "boolean", required: false}
+      - {label: "Print price", name: "price", widget: "number", required: false}
       - {label: "Original price", name: "originalPrice", widget: "number", required: false}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News & Eventi" # Used in the UI
