@@ -11,11 +11,11 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	</span>
-	{{ if eq .Params.printBuy true }}
-	Print price: {{ .Params.printPrice }}	
+	{{ if eq.Params.printBuy true }}
+	Print price: {{ Params.printPrice }}	
 	{{ end }}
 	{{ if eq .Params.originalBuy true }}
-	Print price: {{ .Params.originalPrice }}	
+	Print price: {{ Params.originalPrice }}	
 	{{ end }}
 	<p>
 	    {{ .Content }}
