@@ -11,30 +11,20 @@
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
 	
-	<p>hhh</p>
-	{{ if eq .Params.printBuy true }}
-	Print price: €{{ .Params.printPrice }}	&nbsp 
-<!-- 	<button
-		class="snipcart-add-item"
-		data-item-id={{ .UniqueID }}
-		data-item-name={{ .Title }}
-		data-item-price={{ .Params.printPrice }}
-		data-item-url=https://www.miriamdenardi.it{{ .URL }}
-		data-item-description={{ .Params.description }}>
-		Buy
-	</button> -->
-	{{ end }}
-	{{ if eq .Params.originalBuy true }}
-	Print price: €{{ .Params.originalPrice }}	&nbsp 
-<!-- 	<button
-		class="snipcart-add-item"
-		data-item-id={{ .UniqueID }}
-		data-item-name={{ .Title }}
-		data-item-price={{ .Params.originalPrice }}
-		data-item-url=https://www.miriamdenardi.it{{ .URL }}
-		data-item-description={{ .Params.description }}>
-		Buy
-	</button> -->
+		{{ if eq .Params.printBuy true }}
+		Print price: €{{ .Params.printPrice }}	&nbsp 
+		{{ end }}
+		{{ if eq .Params.originalBuy true }}
+		Print price: €{{ .Params.originalPrice }}	&nbsp 
+	<!-- 	<button
+			class="snipcart-add-item"
+			data-item-id={{ .UniqueID }}
+			data-item-name={{ .Title }}
+			data-item-price={{ .Params.originalPrice }}
+			data-item-url=https://www.miriamdenardi.it{{ .URL }}
+			data-item-description={{ .Params.description }}>
+			Buy
+		</button> -->
 	</span>
 	{{ end }}
 	<p>

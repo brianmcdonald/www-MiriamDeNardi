@@ -10,14 +10,14 @@
 		<!-- <p>{{ .Params.details}}</p> -->
 		<p>{{ .Params.description}}</p> 
 		<p>{{ .Params.file}}</p> 
-		<p>bla</p>
+		
+		{{ if eq .Params.printBuy true }}
+		Print price: {{ .Params.printPrice }}	
+		{{ end }}
+		{{ if eq .Params.originalBuy true }}
+		Print price: {{ .Params.originalPrice }}	
+		{{ end }}
 	</span>
-	{{ if eq .Params.printBuy true }}
-	Print price: {{ .Params.printPrice }}	
-	{{ end }}
-	{{ if eq .Params.originalBuy true }}
-	Print price: {{ .Params.originalPrice }}	
-	{{ end }}
 	<p>
 	    {{ .Content }}
 	</p> 
