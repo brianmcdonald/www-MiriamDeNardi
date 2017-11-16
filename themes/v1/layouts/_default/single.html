@@ -13,7 +13,7 @@
 		<p>bla</p>
 	</span>
 	{{ if eq.Params.printBuy true }}
-	Print price: {{ Params.printPrice }}	
+	Print price: {{ .Params.printPrice }}	
 	{{ end }}
 	{{ if eq .Params.originalBuy true }}
 	Print price: {{ .Params.originalPrice }}	
