@@ -14,9 +14,9 @@
 	{{ if eq .Params.print true }}
 	Print price: €{{ .Params.price }}	&nbsp <p>jj</p>
 	{{ end }}
-<!-- 	{{ if eq .Params.addOriginal true }}
-	Print price: €{{ .Params.originalPrice }}	 <p>&nbsp</p>
-	{{ end }} -->
+    {{ if eq .Params.original true }}
+	Print price: €{{ .Params.price2 }}	 <p>&nbsp</p><p>jj</p>
+	{{ end }}
 	<p>
 	    {{ .Content }}
 	</p> 
