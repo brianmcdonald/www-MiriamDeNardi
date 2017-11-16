@@ -16,10 +16,9 @@
 	Print price: {{ Params.printPrice }}	
 	{{ end }}
 	{{ if eq .Params.originalBuy true }}
-	Print price: {{ Params.originalPrice }}	
+	Print price: {{ .Params.originalPrice }}	
 	{{ end }}
 	<p>
-		tests
 	    {{ .Content }}
 	</p> 
 	{{if .PrevInSection}}<a href="https://www.miriamdenardi.it{{.PrevInSection.Permalink}}">Previous{{end}}
