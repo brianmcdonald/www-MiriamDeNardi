@@ -1600,7 +1600,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #49bf9d;
 			/* border-bottom: dotted 1px; */
 			text-decoration: none;
 		}
@@ -3202,10 +3202,6 @@
 		line-height: 1.5em;
 		color: #a2a2a2;
 		text-decoration: none;
-	}
-	#sidebar li:hover {
-		text-decoration: underline;
-	
 	}
 	#sidebar a:hover {
 		color: white;
