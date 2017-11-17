@@ -3200,6 +3200,11 @@
 		list-style: none;
 		font-size: 1.35em;
 		line-height: 1.5em;
+		color: #a2a2a2;
+		text-decoration: none;
+	}
+	#sidebar li:hover {
+		text-decoration: underline;
 	}
 
 	#sidebar ul li a,
