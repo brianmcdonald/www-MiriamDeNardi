@@ -2,6 +2,8 @@
 title: PREMIO INTERNAZIONALE ARTE MILANO
 date: 2017-07-31T16:11:42.000Z
 ---
+![undefined](/uploads/IMG-9581.JPG)
+
 Nel 2017 partecipa al "**PREMIO
 INTERNAZIONALE ARTE MILANO**"
 
@@ -34,5 +36,3 @@ tavolozza è ricca di toni accesi, quasi a conferire all'insieme un sapore di
 poesia e di personale visione della reltà. La spontaneità con cui lavora, fa
 emergere dai suoi lavori un bisogno impellente di comunicatività, rinunciando a
 tale scopo al rigido accademismo._
-
-!\[ ](/uploads/Teatro del Verme-Arte Milano.jpg)
