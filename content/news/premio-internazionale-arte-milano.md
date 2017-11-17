@@ -2,8 +2,6 @@
 title: PREMIO INTERNAZIONALE ARTE MILANO
 date: 2017-07-31T16:11:42.000Z
 ---
-![undefined](/uploads/IMG-9581.JPG)
-
 Nel 2017 partecipa al "**PREMIO
 INTERNAZIONALE ARTE MILANO**"
 
