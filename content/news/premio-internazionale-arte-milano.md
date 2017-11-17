@@ -34,5 +34,3 @@ tavolozza è ricca di toni accesi, quasi a conferire all'insieme un sapore di
 poesia e di personale visione della reltà. La spontaneità con cui lavora, fa
 emergere dai suoi lavori un bisogno impellente di comunicatività, rinunciando a
 tale scopo al rigido accademismo._
-
-!\[ ](/uploads/Teatro del Verme-Arte Milano.jpg)
