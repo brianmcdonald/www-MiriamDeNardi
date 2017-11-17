@@ -3205,7 +3205,7 @@
 	}
 	#sidebar li:hover {
 		text-decoration: underline;
-		font: white;
+		color: white;
 	}
 
 	#sidebar ul li a,
