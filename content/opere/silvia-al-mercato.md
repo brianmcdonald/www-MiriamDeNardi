@@ -9,6 +9,6 @@ description: >-
 
   In questa immagine l’occhio non può che essere catturato dal solare sorriso di
   Silvia e dalla gioia che coinvolge lo spettatore interdetto/incuriosito. 
-price: '200'
+price: ''
 ---
 
